@@ -1,0 +1,16 @@
+{
+  "name": "lib",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "description": "",
+  "exports": {
+    "./*": "./src/*"
+  },
+  "scripts": {
+    "init": "npm install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lcf.vs",
+  "license": "MIT"
+}

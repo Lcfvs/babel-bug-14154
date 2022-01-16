@@ -1,0 +1,12 @@
+{
+  "presets": [
+    "@babel/env"
+  ],
+  "ignore": [
+    "node_modules/**"
+  ],
+  "targets": ["since 2000"],
+  "plugins": [
+    "@babel/plugin-transform-runtime"
+  ]
+}
